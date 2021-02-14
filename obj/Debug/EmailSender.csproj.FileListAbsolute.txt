@@ -1,0 +1,6 @@
+C:\Users\Rakuzan\Desktop\C#\EmailSender\bin\Debug\EmailSender.exe.config
+C:\Users\Rakuzan\Desktop\C#\EmailSender\bin\Debug\EmailSender.exe
+C:\Users\Rakuzan\Desktop\C#\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\Rakuzan\Desktop\C#\EmailSender\obj\Debug\EmailSender.csproj.CoreCompileInputs.cache
+C:\Users\Rakuzan\Desktop\C#\EmailSender\obj\Debug\EmailSender.exe
+C:\Users\Rakuzan\Desktop\C#\EmailSender\obj\Debug\EmailSender.pdb
