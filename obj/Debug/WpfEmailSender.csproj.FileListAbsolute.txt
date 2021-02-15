@@ -1,0 +1,14 @@
+C:\Users\Rakuzan\Desktop\C#\WpfEmailSender\bin\Debug\WpfEmailSender.exe.config
+C:\Users\Rakuzan\Desktop\C#\WpfEmailSender\bin\Debug\WpfEmailSender.exe
+C:\Users\Rakuzan\Desktop\C#\WpfEmailSender\bin\Debug\WpfEmailSender.pdb
+C:\Users\Rakuzan\Desktop\C#\WpfEmailSender\obj\Debug\MainWindow.g.cs
+C:\Users\Rakuzan\Desktop\C#\WpfEmailSender\obj\Debug\App.g.cs
+C:\Users\Rakuzan\Desktop\C#\WpfEmailSender\obj\Debug\WpfEmailSender_MarkupCompile.cache
+C:\Users\Rakuzan\Desktop\C#\WpfEmailSender\obj\Debug\WpfEmailSender_MarkupCompile.lref
+C:\Users\Rakuzan\Desktop\C#\WpfEmailSender\obj\Debug\MainWindow.baml
+C:\Users\Rakuzan\Desktop\C#\WpfEmailSender\obj\Debug\WpfEmailSender.g.resources
+C:\Users\Rakuzan\Desktop\C#\WpfEmailSender\obj\Debug\WpfEmailSender.Properties.Resources.resources
+C:\Users\Rakuzan\Desktop\C#\WpfEmailSender\obj\Debug\WpfEmailSender.csproj.GenerateResource.cache
+C:\Users\Rakuzan\Desktop\C#\WpfEmailSender\obj\Debug\WpfEmailSender.csproj.CoreCompileInputs.cache
+C:\Users\Rakuzan\Desktop\C#\WpfEmailSender\obj\Debug\WpfEmailSender.exe
+C:\Users\Rakuzan\Desktop\C#\WpfEmailSender\obj\Debug\WpfEmailSender.pdb
